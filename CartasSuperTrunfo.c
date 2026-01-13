@@ -45,7 +45,7 @@ int main()
   //Cálculo de PIB per Capita
   pibPerCapita = pib/(float)populacao;
 
- /* printf("=== Digite os dados para carta dois. \n\n");
+  printf("=== Digite os dados para carta dois. \n\n");
 
   printf("Estado: \n");
   scanf("%s", estado_2);
@@ -73,7 +73,7 @@ int main()
 
   //Cálculo de PIB per Capita
   pibPerCapita_2 = pib_2/(float)populacao_2;
-*/
+
 
   // saida de dados das cartas um e dois.
 
