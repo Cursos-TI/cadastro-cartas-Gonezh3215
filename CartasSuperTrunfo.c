@@ -116,7 +116,7 @@ int main()
 
     printf("Nome: %s | %s \n", nomeCidade, nomeCidade_2);
     printf("População: %d  | %d\n", populacao, populacao_2);
-
+    
     if (populacao > populacao_2)
     {
       printf("Carta um venceu.");
